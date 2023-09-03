@@ -1,0 +1,2 @@
+# bean
+Java learning repo
