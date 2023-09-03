@@ -1,4 +1,4 @@
-package cpm.learn.reactor.core;
+package com.learn.reactor.core;
 
 import java.util.stream.Stream;
 
